@@ -88,7 +88,6 @@ After completing this project, I gained hands-on experience with:
 ---
 
 ## 📖 Author
-PRINCE KUMAR
 
 Prince Kumar
 
