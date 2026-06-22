@@ -88,6 +88,5 @@ After completing this project, I gained hands-on experience with:
 ---
 
 ## 📖 Author
-
-
+Prince Kumar
 Machine Learning Enthusiast | Electronics & Communication Engineering
